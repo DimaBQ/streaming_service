@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 # framework
-gem "puma", "~> 4.2.0"
+gem "puma", "~> 4.3.5"
 gem "rack-unreloader", "~> 1.7"
 gem "rake", "~> 13"
 gem "roda", "~> 3.24"
